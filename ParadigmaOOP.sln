@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainIA", "MainIA\MainIA.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainJM", "MainJM\MainJM.vcxproj", "{64BFFB0E-740B-42E8-945A-88C8C9C7F361}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memberinitlist", "memberinitlist\memberinitlist.vcxproj", "{D5418C73-CC73-45D0-BADB-43817C934539}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{64BFFB0E-740B-42E8-945A-88C8C9C7F361}.Release|x64.Build.0 = Release|x64
 		{64BFFB0E-740B-42E8-945A-88C8C9C7F361}.Release|x86.ActiveCfg = Release|Win32
 		{64BFFB0E-740B-42E8-945A-88C8C9C7F361}.Release|x86.Build.0 = Release|Win32
+		{D5418C73-CC73-45D0-BADB-43817C934539}.Debug|x64.ActiveCfg = Debug|x64
+		{D5418C73-CC73-45D0-BADB-43817C934539}.Debug|x64.Build.0 = Debug|x64
+		{D5418C73-CC73-45D0-BADB-43817C934539}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5418C73-CC73-45D0-BADB-43817C934539}.Debug|x86.Build.0 = Debug|Win32
+		{D5418C73-CC73-45D0-BADB-43817C934539}.Release|x64.ActiveCfg = Release|x64
+		{D5418C73-CC73-45D0-BADB-43817C934539}.Release|x64.Build.0 = Release|x64
+		{D5418C73-CC73-45D0-BADB-43817C934539}.Release|x86.ActiveCfg = Release|Win32
+		{D5418C73-CC73-45D0-BADB-43817C934539}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
